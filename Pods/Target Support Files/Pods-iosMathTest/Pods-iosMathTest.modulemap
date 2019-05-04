@@ -1,0 +1,6 @@
+framework module Pods_iosMathTest {
+  umbrella header "Pods-iosMathTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
