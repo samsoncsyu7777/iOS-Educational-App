@@ -1,16 +1,20 @@
 PODS:
   - iosMath (0.9.4)
+  - SwiftKeychainWrapper (3.4.0)
 
 DEPENDENCIES:
   - iosMath
+  - SwiftKeychainWrapper
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - iosMath
+    - SwiftKeychainWrapper
 
 SPEC CHECKSUMS:
   iosMath: f7a6cbadf9d836d2149c2a84c435b1effc244cba
+  SwiftKeychainWrapper: 6fc49fbf7d4a6b0772917acb0e53a1639f6078d6
 
-PODFILE CHECKSUM: b6a3eaffcf484b062907bfd10f9d29a23006d325
+PODFILE CHECKSUM: 262ccb570582310b15a4cf2394613a0ea6f12075
 
-COCOAPODS: 1.6.0
+COCOAPODS: 1.6.1

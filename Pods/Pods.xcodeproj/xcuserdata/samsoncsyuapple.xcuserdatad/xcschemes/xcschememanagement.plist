@@ -4,21 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-iosMathTest.xcscheme_^#shared#^_</key>
+		<key>Pods-iosMathTest.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>3</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>iosMath-mathFonts.xcscheme_^#shared#^_</key>
+		<key>SwiftKeychainWrapper.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
-		<key>iosMath.xcscheme_^#shared#^_</key>
+		<key>iosMath-mathFonts.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>iosMath.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict/>
 </dict>
 </plist>
